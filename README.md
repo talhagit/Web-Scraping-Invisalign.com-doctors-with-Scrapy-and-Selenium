@@ -2,7 +2,9 @@
 This code will extract doctors info from : https://www.invisalign.com/find-a-doctor, using Selenium web driver and Scrapy
 
 **Prerequisite:**
+
 pip install Scrapy
+
 pip install selenium
 
 In addition you will need to install firefox Gecko driver from : https://github.com/mozilla/geckodriver/releases/tag/v0.23.0
