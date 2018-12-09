@@ -8,6 +8,7 @@ pip install selenium
 In addition you will need to install firefox Gecko driver from : https://github.com/mozilla/geckodriver/releases/tag/v0.23.0
 
 **Overview**
+
 Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
 For more information including a list of features check the Scrapy homepage at: https://scrapy.org
