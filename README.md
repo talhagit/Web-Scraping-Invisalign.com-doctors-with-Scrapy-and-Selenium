@@ -3,11 +3,17 @@ This code will extract doctors info from : https://www.invisalign.com/find-a-doc
 
 **Prerequisite:**
 
-pip install Scrapy
+* pip install Scrapy
 
-pip install selenium
+* pip install selenium
 
 In addition you will need to install firefox Gecko driver from : https://github.com/mozilla/geckodriver/releases/tag/v0.23.0
+
+ **How to Run:**
+ 
+ On Cmd, go to the directory:
+ scrapy runspider Invisalign.py
+
 
 **Overview**
 
@@ -22,9 +28,6 @@ This repo is an example of webcrawler built using the Scrapy python framework.  
  
  
  
- How to Run:
- On Cmd, go to the directory:
- scrapy runspider Invisalign.py
 
 
 
